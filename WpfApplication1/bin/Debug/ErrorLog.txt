@@ -1,0 +1,2529 @@
+17/07/2024 01:06:00 PM  :  Close Port
+17/07/2024 01:07:01 PM  :  Close Port
+17/07/2024 01:07:01 PM  :  Close Port
+17/07/2024 01:08:01 PM  :  Close Port
+17/07/2024 01:08:01 PM  :  Close Port
+17/07/2024 01:08:06 PM  :  Close Port
+17/07/2024 01:08:06 PM  :  Close Port
+17/07/2024 01:08:11 PM  :  Close Port
+17/07/2024 01:08:11 PM  :  Close Port
+17/07/2024 01:08:41 PM  :  Close Port
+17/07/2024 01:08:41 PM  :  Close Port
+17/07/2024 01:09:41 PM  :  Close Port
+17/07/2024 01:09:41 PM  :  Close Port
+17/07/2024 01:10:41 PM  :  Close Port
+17/07/2024 01:10:41 PM  :  Close Port
+17/07/2024 01:10:46 PM  :  Close Port
+17/07/2024 01:10:46 PM  :  Close Port
+17/07/2024 01:10:51 PM  :  Close Port
+17/07/2024 01:10:51 PM  :  Close Port
+17/07/2024 02:26:55 PM  :  Close Port
+17/07/2024 02:26:55 PM  :  Close Port
+17/07/2024 02:27:55 PM  :  Close Port
+17/07/2024 02:27:55 PM  :  Close Port
+17/07/2024 02:28:55 PM  :  Close Port
+17/07/2024 02:28:55 PM  :  Close Port
+17/07/2024 02:29:00 PM  :  Close Port
+17/07/2024 02:29:00 PM  :  Close Port
+17/07/2024 02:29:05 PM  :  Close Port
+17/07/2024 02:29:05 PM  :  Close Port
+17/07/2024 02:29:05 PM  :  Close Port
+17/07/2024 02:29:05 PM  :  Close Port
+17/07/2024 02:40:53 PM  :  Close Port
+17/07/2024 02:40:53 PM  :  Close Port
+17/07/2024 02:41:53 PM  :  Close Port
+17/07/2024 02:41:53 PM  :  Close Port
+17/07/2024 02:42:53 PM  :  Close Port
+17/07/2024 02:42:53 PM  :  Close Port
+17/07/2024 02:42:58 PM  :  Close Port
+17/07/2024 02:42:58 PM  :  Close Port
+17/07/2024 02:43:03 PM  :  Close Port
+17/07/2024 02:43:03 PM  :  Close Port
+17/07/2024 02:43:04 PM  :  Close Port
+18/07/2024 09:22:09 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 122
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 09:22:42 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 122
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 09:27:37 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 123
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 09:34:56 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 112
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 09:36:55 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 122
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 10:58:12 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 123
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 10:58:21 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 123
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:44:51 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 123
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:47:13 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 123
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:51:03 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:51:16 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:51:22 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:56:34 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 11:56:46 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 12:00:05 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 02:23:01 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 02:23:15 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 02:29:26 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 02:29:27 PM  :  Close Port
+18/07/2024 02:29:27 PM  :  Close Port
+18/07/2024 02:30:28 PM  :  Close Port
+18/07/2024 02:30:28 PM  :  Close Port
+18/07/2024 02:31:28 PM  :  Close Port
+18/07/2024 02:31:28 PM  :  Close Port
+18/07/2024 02:31:33 PM  :  Close Port
+18/07/2024 02:31:33 PM  :  Close Port
+18/07/2024 02:31:38 PM  :  Close Port
+18/07/2024 02:31:38 PM  :  Close Port
+18/07/2024 03:21:25 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 04:43:18 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:10:05 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:10:21 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:16:22 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:18:51 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:22:32 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:22:33 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Int
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WpfApplication1.UCManagementUser.loaddata() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCManagementUser.xaml.cs:line 73
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+18/07/2024 05:22:35 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:22:36 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Int
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WpfApplication1.UCManagementUser.loaddata() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCManagementUser.xaml.cs:line 73
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+18/07/2024 05:22:52 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+18/07/2024 05:31:36 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 04:03:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:28:32 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:31:43 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:32:30 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:36:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:39:01 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:42:49 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:49:27 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:52:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+19/07/2024 10:55:38 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:32:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:32:57 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:43:45 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:43:59 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:44:21 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:44:34 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:44:56 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:45:04 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:56:10 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:56:54 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 09:59:46 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:06:27 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:10:13 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:12:46 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:14:03 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:16:08 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:19:21 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:20:18 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:21:46 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:25:39 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:27:01 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:28:26 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:31:13 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:32:41 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:57:41 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 10:58:15 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:04:00 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:11:30 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:13:40 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:15:16 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:15:39 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:16:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:16:19 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+20/07/2024 11:17:44 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:08:22 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:08:44 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:08:53 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:09:09 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:13:35 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:13:56 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:14:10 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:15:17 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:18:14 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:18:28 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:18:38 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:19:55 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:20:33 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:35:05 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:35:30 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:49:41 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+21/07/2024 09:50:05 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+22/07/2024 08:45:59 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+22/07/2024 08:46:03 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+22/07/2024 08:46:18 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+22/07/2024 08:46:25 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 128
+Source: WpfApplication1
+-----------------------------------------------------------
+
+22/07/2024 11:46:17 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:46:28 AM  :  Close Port
+22/07/2024 11:48:25 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:48:31 AM  :  Close Port
+22/07/2024 11:48:54 AM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 632
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:49:28 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:49:32 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:49:34 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:51:16 AM  :  Close Port
+22/07/2024 11:51:39 AM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 632
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:53:29 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:53:33 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:53:47 AM  :  Close Port
+22/07/2024 11:54:07 AM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.printBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 541
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 11:54:18 AM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.printBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 541
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 11:54:56 AM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.printBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 541
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 11:56:07 AM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.printBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 541
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 11:56:42 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 11:57:01 AM  :  Close Port
+22/07/2024 11:57:22 AM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 632
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:05:15 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:05:38 PM  :  Close Port
+22/07/2024 01:05:51 PM  :  Close Port
+22/07/2024 01:17:26 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:17:47 PM  :  Close Port
+22/07/2024 01:18:02 PM  :  Close Port
+22/07/2024 01:18:26 PM  :  Close Port
+22/07/2024 01:18:56 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:18:59 PM  :  Close Port
+22/07/2024 01:20:47 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:21:25 PM  :  Close Port
+22/07/2024 01:21:44 PM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 632
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:21:45 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 708
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 01:23:22 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:37:25 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:37:37 PM  :  Close Port
+22/07/2024 01:37:53 PM  :  Close Port
+22/07/2024 01:39:53 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:41:02 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:41:15 PM  :  Close Port
+22/07/2024 01:43:05 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:43:12 PM  :  Close Port
+22/07/2024 01:45:32 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:45:38 PM  :  Close Port
+22/07/2024 01:45:48 PM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 632
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:45:48 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 710
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 01:48:42 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:48:50 PM  :  Close Port
+22/07/2024 01:48:59 PM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 632
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:48:59 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 710
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 01:50:39 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:50:39 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 497
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 01:50:51 PM  :  Close Port
+22/07/2024 01:51:08 PM  :  Close Port
+22/07/2024 01:51:25 PM  :  Close Port
+22/07/2024 01:53:52 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:53:52 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 497
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 01:54:15 PM  :  Close Port
+22/07/2024 01:54:32 PM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 635
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:54:32 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 203
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 713
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 01:54:48 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 497
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 01:54:56 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 01:54:56 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 497
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 02:01:46 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:01:46 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 515
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 02:02:01 PM  :  Close Port
+22/07/2024 02:02:14 PM
+-----------------------------------------------------------
+Message: SQL logic error
+near "SELECT": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.ChangeDirector.StandardChangeDirector.DynamicInsert(TrackedObject item)
+   at System.Data.Linq.ChangeProcessor.SubmitChanges(ConflictMode failureMode)
+   at System.Data.Linq.DataContext.SubmitChanges(ConflictMode failureMode)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 653
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:02:14 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 220
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 731
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 02:04:02 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 135
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:04:02 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 515
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 02:12:18 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 134
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:12:18 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 519
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 02:12:26 PM  :  Close Port
+22/07/2024 02:20:37 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 134
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:20:37 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 519
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 02:21:31 PM  :  Close Port
+22/07/2024 02:21:43 PM
+-----------------------------------------------------------
+Message: SQL logic error
+18 values for 19 columns
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.SQLite.SQLiteCommand.ExecuteNonQuery(CommandBehavior behavior)
+   at WpfApplication1.UCBacaKTP.simpanBtn_Click(Object sender, RoutedEventArgs e) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 634
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:21:43 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 219
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 712
+Source: System.Drawing
+-----------------------------------------------------------
+
+22/07/2024 02:21:52 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 134
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:21:52 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 519
+Source: mscorlib
+-----------------------------------------------------------
+
+22/07/2024 02:24:26 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: Day
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at WpfApplication1.UCBacaKTP.loadDataHariIni() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 134
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+22/07/2024 02:24:26 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCBacaKTP.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 519
+Source: mscorlib
+-----------------------------------------------------------
+
+23/07/2024 10:50:37 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: NVarChar
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 47
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 10:50:39 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: NVarChar
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 47
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 10:50:41 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: NVarChar
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Linq.SqlClient.SqlProvider.Execute(Expression query, QueryInfo queryInfo, IObjectReaderFactory factory, Object[] parentArgs, Object[] userArgs, ICompiledSubQuery[] subQueries, Object lastResult)
+   at System.Data.Linq.SqlClient.SqlProvider.ExecuteAll(Expression query, QueryInfo[] queryInfos, IObjectReaderFactory factory, Object[] userArguments, ICompiledSubQuery[] subQueries)
+   at System.Data.Linq.SqlClient.SqlProvider.System.Data.Linq.Provider.IProvider.Execute(Expression query)
+   at System.Data.Linq.DataQuery`1.System.Collections.Generic.IEnumerable<T>.GetEnumerator()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 47
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 11:05:40 AM
+-----------------------------------------------------------
+Message: Operation is not valid due to the current state of the object.
+StackTrace:    at System.Data.SQLite.SQLiteConnection.Open()
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 51
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 11:08:01 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: KodePerusahaanEfek
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 66
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 11:14:28 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: KodePerusahaanEfek
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 66
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 11:19:44 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: KodePerusahaanEfek
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 66
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 11:34:20 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: KodePerusahaanEfek
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 68
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 11:39:32 AM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: KodePerusahaanEfek
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 62
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 02:41:20 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: ID
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 122
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 02:41:23 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such column: ID
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCMain.LoadAB() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 159
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 02:42:23 PM
+-----------------------------------------------------------
+Message: Column 'ID' does not belong to table .
+StackTrace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at WpfApplication1.UCMain.LoadAB() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 166
+Source: System.Data
+-----------------------------------------------------------
+
+23/07/2024 02:44:19 PM
+-----------------------------------------------------------
+Message: Column 'ID' does not belong to table .
+StackTrace:    at System.Data.DataRow.GetDataColumn(String columnName)
+   at System.Data.DataRow.get_Item(String columnName)
+   at WpfApplication1.UCMain.LoadAB() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 166
+Source: System.Data
+-----------------------------------------------------------
+
+23/07/2024 02:45:17 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 133
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 02:45:20 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 02:45:30 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 02:47:09 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:03:25 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:03:29 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:04:58 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:14:35 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 105
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:51:15 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 107
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:51:17 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 107
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:52:05 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 106
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:54:13 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 106
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:55:02 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 107
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:55:02 PM
+-----------------------------------------------------------
+Message: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+StackTrace:    at System.ThrowHelper.ThrowArgumentOutOfRangeException(ExceptionArgument argument, ExceptionResource resource)
+   at System.Collections.Generic.List`1.get_Item(Int32 index)
+   at WpfApplication1.UCData.dataLoad() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 81
+Source: mscorlib
+-----------------------------------------------------------
+
+23/07/2024 03:57:48 PM
+-----------------------------------------------------------
+Message: Bad Storage property: '_ID' on member 'WpfApplication1.Tables.Tbl_perusahaan_efek.Id_broker'.
+StackTrace:    at System.Data.Linq.Mapping.AttributedMetaDataMember..ctor(AttributedMetaType metaType, MemberInfo mi, Int32 ordinal)
+   at System.Data.Linq.Mapping.AttributedMetaType.InitDataMembers()
+   at System.Data.Linq.Mapping.AttributedMetaType..ctor(MetaModel model, MetaTable table, Type type, MetaType inheritanceRoot)
+   at System.Data.Linq.Mapping.AttributedRootType..ctor(AttributedMetaModel model, AttributedMetaTable table, Type type)
+   at System.Data.Linq.Mapping.AttributedMetaTable..ctor(AttributedMetaModel model, TableAttribute attr, Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTableNoLocks(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetTable(Type rowType)
+   at System.Data.Linq.Mapping.AttributedMetaModel.GetMetaType(Type type)
+   at System.Data.Linq.Mapping.AttributedMetaAssociation..ctor(AttributedMetaDataMember member, AssociationAttribute attr)
+   at System.Data.Linq.Mapping.AttributedMetaDataMember.get_Association()
+   at System.Linq.Enumerable.WhereSelectEnumerableIterator`2.MoveNext()
+   at System.Collections.Generic.List`1..ctor(IEnumerable`1 collection)
+   at System.Linq.Enumerable.ToList[TSource](IEnumerable`1 source)
+   at System.Data.Linq.Mapping.AttributedMetaType.get_Associations()
+   at System.Data.Linq.DataContext.ValidateTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable(MetaTable metaTable)
+   at System.Data.Linq.DataContext.GetTable[TEntity]()
+   at WpfApplication1.Utils.DBKTPContext.get_Tbl_ktp() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\Utils\DBKTPContext.cs:line 72
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 109
+Source: System.Data.Linq
+-----------------------------------------------------------
+
+23/07/2024 03:58:59 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 116
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:00:00 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 118
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:00:33 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 118
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:07:08 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 119
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:08:57 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 120
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:17:37 PM
+-----------------------------------------------------------
+Message: Index was outside the bounds of the array.
+StackTrace:    at System.Data.SQLite.SQLiteDataReader.GetSQLiteType(SQLiteConnectionFlags flags, Int32 i)
+   at System.Data.SQLite.SQLiteDataReader.GetValue(Int32 i)
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 142
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 04:17:54 PM
+-----------------------------------------------------------
+Message: Index was outside the bounds of the array.
+StackTrace:    at System.Data.SQLite.SQLiteDataReader.GetSQLiteType(SQLiteConnectionFlags flags, Int32 i)
+   at System.Data.SQLite.SQLiteDataReader.GetValue(Int32 i)
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 142
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 04:22:48 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such table: tbl_broker
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at WpfApplication1.UCData.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCData.xaml.cs:line 123
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 04:29:57 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:30:12 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:30:22 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:31:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:31:11 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:32:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:33:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:33:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:33:37 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:33:45 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:34:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:34:34 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:34:43 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:37:02 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:37:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:38:01 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:38:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 04:55:53 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:00:57 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:01:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:03:24 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:03:39 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:04:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:04:48 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:05:15 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:06:53 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:08:27 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:09:19 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 140
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:28:43 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:42:38 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 05:46:34 PM  :  Close Port
+23/07/2024 05:46:52 PM
+-----------------------------------------------------------
+Message: ClientFront.png
+StackTrace:    at System.Drawing.Image.FromFile(String filename, Boolean useEmbeddedColorManagement)
+   at WpfApplication1.UCBacaKTP.PrintCardDesign(DataEktp dataktp) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 272
+   at WpfApplication1.UCBacaKTP.generatePDFFile(String folderpath, DateTime date) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 798
+Source: System.Drawing
+-----------------------------------------------------------
+
+23/07/2024 05:47:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 09:48:13 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 09:51:37 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 10:28:15 PM
+-----------------------------------------------------------
+Message: SQL logic error
+no such table: tbl_broker
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCBroker.LoadDataBroker() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBroker.xaml.cs:line 87
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 10:32:40 PM
+-----------------------------------------------------------
+Message: SQL logic error
+near "TELEPON": syntax error
+StackTrace:    at System.Data.SQLite.SQLite3.Prepare(SQLiteConnection cnn, SQLiteCommand command, String strSql, SQLiteStatement previous, UInt32 timeoutMS, String& strRemain)
+   at System.Data.SQLite.SQLiteCommand.BuildNextCommand()
+   at System.Data.SQLite.SQLiteDataReader.NextResult()
+   at System.Data.SQLite.SQLiteDataReader..ctor(SQLiteCommand cmd, CommandBehavior behave)
+   at System.Data.SQLite.SQLiteCommand.ExecuteReader(CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.FillInternal(DataSet dataset, DataTable[] datatables, Int32 startRecord, Int32 maxRecords, String srcTable, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable[] dataTables, Int32 startRecord, Int32 maxRecords, IDbCommand command, CommandBehavior behavior)
+   at System.Data.Common.DbDataAdapter.Fill(DataTable dataTable)
+   at WpfApplication1.UCBroker.LoadDataBroker() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBroker.xaml.cs:line 83
+Source: System.Data.SQLite
+-----------------------------------------------------------
+
+23/07/2024 10:43:26 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 10:43:56 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+23/07/2024 11:57:34 PM
+-----------------------------------------------------------
+Message: Value cannot be null.
+Parameter name: source
+StackTrace:    at System.Linq.Enumerable.Select[TSource,TResult](IEnumerable`1 source, Func`2 selector)
+   at WpfApplication1.UCMain.LoadAB(List`1 selectedBrokers) in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 180
+Source: System.Core
+-----------------------------------------------------------
+
+24/07/2024 06:27:34 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+24/07/2024 06:28:35 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+

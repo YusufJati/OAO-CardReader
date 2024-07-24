@@ -1,0 +1,24 @@
+﻿<Window x:Class="WpfApplication1.MainAbout"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApplication1"
+        Title="About" Height="340" Width="328" ResizeMode="NoResize" WindowStartupLocation="CenterScreen"
+        WindowStyle="ToolWindow">
+    <Grid>
+        <Frame x:Name="frame" Content="" Margin="0,178,61,0" RenderTransformOrigin="0.5,0.5"
+               HorizontalAlignment="Right" Width="219" Height="121" VerticalAlignment="Top">
+            <Control.Background>
+                <ImageBrush ImageSource="Images/idxsti.png"/>
+            </Control.Background>
+        </Frame>
+        <TextBlock x:Name="textBlock" HorizontalAlignment="Left" Margin="30,30,0,0" TextWrapping="Wrap"
+                   VerticalAlignment="Top" Height="245" Width="250">
+            <Run FontWeight="Bold" Text="Aplikasi Pembaca KTP-el"/>
+            <Run Text=" adalah aplikasi yang digunakan untuk menampilkan data individu yang tersimpan dalam chip KTP elektronik yang dikeluarkan oleh Direktorat Jenderal Kepedudukan dan Pencatatan Sipil, Kementerian Dalam Negeri. Apabila ada pertanyaan lebih lanjut terkait dengan aplikasi Pembaca KTP-el dapat menghubungi "/>
+            <LineBreak/>
+            <Run Text="PT IDX Solusi Teknologi"/>
+        </TextBlock>
+    </Grid>
+</Window>

@@ -1,0 +1,107 @@
+﻿<UserControl x:Class="WpfApplication1.UCManagementUser"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:local="clr-namespace:WpfApplication1"
+             xmlns:Custom="http://schemas.microsoft.com/wpf/2008/toolkit"
+             UseLayoutRounding="true" ClipToBounds="true" SnapsToDevicePixels="true" Height="1095.715"
+             IsHitTestVisible="true" Width="1804">
+  <Grid>
+    <GroupBox x:Name="groupBox" Header="Ganti Password" HorizontalAlignment="Left" Margin="16,12,0,0"
+              VerticalAlignment="Top" Height="197" Width="459" FontSize="16" FontFamily="Calibri">
+      <Label x:Name="label" Content="Password Lama" HorizontalAlignment="Left" Margin="14,21,0,0"
+             VerticalAlignment="Top" FontFamily="Calibri"/>
+    </GroupBox>
+    <Label x:Name="label_Copy" Content="Password Baru" HorizontalAlignment="Left" Margin="36,82,0,0"
+           VerticalAlignment="Top" FontSize="16" FontFamily="Calibri"/>
+    <Label x:Name="label_Copy1" Content="Ketik Ulang Password Baru" HorizontalAlignment="Left"
+           Margin="36,112,0,0" VerticalAlignment="Top" FontSize="16" FontFamily="Calibri"/>
+    <TextBox x:Name="oldPasswordtxt" HorizontalAlignment="Left" Height="25" Margin="238,55,0,0"
+             TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontFamily="Calibri" FontSize="16"/>
+    <TextBox x:Name="newPasswordtxt" HorizontalAlignment="Left" Height="25" Margin="238,85,0,0"
+             TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontFamily="Calibri" FontSize="16"/>
+    <TextBox x:Name="reNewPasswordtxt" HorizontalAlignment="Left" Height="25" Margin="238,115,0,0"
+             TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontFamily="Calibri" FontSize="16"/>
+    <Button Click="updatebtn_Click" x:Name="updatebtn" Content="     Update" HorizontalAlignment="Left"
+            Margin="238,156,0,0" VerticalAlignment="Top" Width="131" Height="37" FontFamily="Calibri"
+            FontSize="16"
+            Style="{StaticResource update}"
+            RenderTransformOrigin="0.5,0.5"/>
+    <GroupBox x:Name="addUserGroup" Header="Tambah User" HorizontalAlignment="Left" Margin="16,226,0,0"
+              VerticalAlignment="Top" Height="264" Width="459" FontSize="16" FontFamily="Calibri">
+      <Grid>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="25*"/>
+          <ColumnDefinition Width="422*"/>
+        </Grid.ColumnDefinitions>
+        <Label x:Name="label_Copy2" Content="Username" HorizontalAlignment="Left" Margin="16,23,0,0"
+               VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy3" Content="Password" HorizontalAlignment="Left" Margin="16,54,0,0"
+               VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy4" Content="Role" HorizontalAlignment="Left" Margin="16,82,0,0"
+               VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+        <Label x:Name="label_Copy5" Content="Deskripsi" HorizontalAlignment="Left" Margin="37,364,0,0"
+               VerticalAlignment="Top" FontFamily="Calibri" FontSize="16"/>
+        <TextBox PreviewTextInput="addusernametxt_PreviewTextInput" PreviewKeyDown="addusernametxt_PreviewKeyDown"
+                 x:Name="addusernametxt" HorizontalAlignment="Left" Height="25" Margin="191,25,0,0"
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontFamily="Arial" FontSize="16"
+                 Grid.Column="1" MaxLength="25"/>
+        <TextBox x:Name="addpasswordtxt" HorizontalAlignment="Left" Height="25" Margin="191,55,0,0"
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="185" FontFamily="Arial" FontSize="16"
+                 Grid.Column="1" MaxLength="25"/>
+        <Button Click="addUserSimpanbtn_Click" x:Name="addUserSimpanbtn" Content="     Simpan"
+                HorizontalAlignment="Left" Margin="191,195,0,6" Width="131" FontFamily="Calibri" FontSize="16"
+                Grid.Column="1"
+                Style="{StaticResource simpan}"
+                RenderTransformOrigin="0.5,0.5"/>
+        <ComboBox x:Name="rolecb" HorizontalAlignment="Left" Margin="191,86,0,0" VerticalAlignment="Top" Width="184"
+                  Grid.Column="1" Height="25"/>
+        <TextBox x:Name="deskripsitxt" Grid.Column="1" HorizontalAlignment="Left" Height="68" Margin="192,117,0,0"
+                 TextWrapping="Wrap" VerticalAlignment="Top" Width="183" VerticalScrollBarVisibility="Auto"
+                 MaxLength="200"/>
+        <Label x:Name="label_Copy6" Content="Deskripsi" HorizontalAlignment="Left" Margin="16,114,0,0"
+               VerticalAlignment="Top" Grid.ColumnSpan="2"/>
+      </Grid>
+    </GroupBox>
+    <DataGrid x:Name="userdg" HorizontalAlignment="Left" Margin="520,39,0,0" VerticalAlignment="Top" Height="387"
+              Width="790" IsReadOnly="true" IsSynchronizedWithCurrentItem="True" AutoGenerateColumns="false"
+              CanUserSortColumns="true" CanUserAddRows="false">
+      <DataGrid.Columns>
+        <DataGridTextColumn Header="NO" Binding="{Binding ID}" SortMemberPath="{Binding ID}"/>
+        <DataGridTextColumn Header="USERNAME" Binding="{Binding USERNAME}" SortMemberPath="{Binding USERNAME}"/>
+        <DataGridTextColumn Header="DESKRIPSI" Binding="{Binding DESKRIPSI}" SortMemberPath="{Binding DESKRIPSI}"/>
+        <DataGridTextColumn Header="ROLE" Binding="{Binding ROLE}" SortMemberPath="{Binding ROLE}"/>
+        <DataGridTemplateColumn Header="ACTION" Width="2*">
+          <DataGridTemplateColumn.CellTemplate>
+            <DataTemplate>
+              <Button x:Name="resetPasswordBtn" Click="resetPasswordBtn_Click" Content="Reset Password"/>
+            </DataTemplate>
+          </DataGridTemplateColumn.CellTemplate>
+        </DataGridTemplateColumn>
+        <DataGridTemplateColumn Width="2*">
+          <DataGridTemplateColumn.CellTemplate>
+            <DataTemplate>
+              <Button x:Name="updateUserBtn" Click="updateUserbtn_Click" Content="Update"/>
+            </DataTemplate>
+          </DataGridTemplateColumn.CellTemplate>
+        </DataGridTemplateColumn>
+        <DataGridTemplateColumn Width="2*">
+          <DataGridTemplateColumn.CellTemplate>
+            <DataTemplate>
+              <Button x:Name="deleteBtn" Click="deletebtn_Click" Content="Delete"/>
+            </DataTemplate>
+          </DataGridTemplateColumn.CellTemplate>
+        </DataGridTemplateColumn>
+      </DataGrid.Columns>
+    </DataGrid>
+    <Label x:Name="listuserlbl" Content="Daftar Pengguna" HorizontalAlignment="Left" Margin="514,13,0,0"
+           VerticalAlignment="Top"/>
+    <GroupBox x:Name="groupBox1" Header="Logout" HorizontalAlignment="Left" Margin="16,512,0,0"
+              VerticalAlignment="Top" Height="96" Width="459" FontFamily="Calibri" FontSize="16"
+              Visibility="Hidden"/>
+    <Button Click="logout_Click" x:Name="logout" Content="Logout" HorizontalAlignment="Left"
+            Margin="238,544,0,0" VerticalAlignment="Top" Width="131" Height="37" FontFamily="Calibri"
+            FontSize="16" Visibility="Hidden"/>
+  </Grid>
+</UserControl>

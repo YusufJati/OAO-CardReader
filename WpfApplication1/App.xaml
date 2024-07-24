@@ -1,0 +1,31 @@
+﻿<Application x:Class="WpfApplication1.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfApplication1"
+             StartupUri="MainLogin.xaml">
+    <Application.Resources>
+         <ResourceDictionary>
+             <ResourceDictionary.MergedDictionaries>
+                 <ResourceDictionary Source="Styles/ButtonMenuUpdate.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonMenuBacaKTP.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonMenuLogReader.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonMenuService.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonMenuManagementUser.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonBacaKTPel.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonSimpan.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonExport.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonPrint.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonDelete.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonBrowse.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonUpdate.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonUpdateWaktu.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonSetIP.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonCari.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonLogin.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonCheckNik.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonLogout.xaml"/>
+                 <ResourceDictionary Source="Styles/ButtonLink.xaml"/>
+             </ResourceDictionary.MergedDictionaries>
+         </ResourceDictionary>
+    </Application.Resources>
+</Application>

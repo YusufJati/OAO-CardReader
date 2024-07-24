@@ -1,0 +1,30 @@
+<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <Style x:Key="print" TargetType="{x:Type Button}">
+    <Setter Property="Control.Background" Value="#FFE0E0E0"/>
+    <Setter Property="Control.Foreground" Value="Black"/>
+    <Setter Property="Control.Template">
+      <Setter.Value>
+        <ControlTemplate TargetType="{x:Type Button}">
+          <Border CornerRadius="5" Background="{TemplateBinding Control.Background}" BorderThickness="1">
+            <Grid>
+              <Grid>
+                <Path x:Name="PathIcon" Width="20" Height="20" Stretch="Fill" Fill="#FF000000" HorizontalAlignment="Left"
+                      Margin="17,0,0,0"
+                      Data="F1 M 25,27 L 25,17 51,17 51,27 47,27 47,21 29,21 29,27 25,27 M 16,28 L 60,28 60,51 51,51 51,60 25,60 25,51 16,51 16,28 M 55,46 L 55,33 21,33 21,46 55,46 M 25,44 L 25,39 51,39 51,44 25,44 Z"/>
+                <ContentPresenter x:Name="MyContentPresenter" Content="{TemplateBinding ContentControl.Content}"
+                                  HorizontalAlignment="Center" VerticalAlignment="Center" Margin="0,0,0,0"/>
+              </Grid>
+            </Grid>
+          </Border>
+        </ControlTemplate>
+      </Setter.Value>
+    </Setter>
+    <Setter Property="FrameworkElement.Cursor" Value="Arrow"/>
+    <Style.Triggers>
+      <Trigger Property="UIElement.IsMouseOver" Value="true">
+        <Setter Property="Control.Background" Value="DarkGoldenrod"/>
+      </Trigger>
+    </Style.Triggers>
+  </Style>
+</ResourceDictionary>
