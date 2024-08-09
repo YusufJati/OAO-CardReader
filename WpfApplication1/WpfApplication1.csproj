@@ -9,7 +9,7 @@
         <OutputType>WinExe</OutputType>
         <RootNamespace>WpfApplication1</RootNamespace>
         <AssemblyName>WpfApplication1</AssemblyName>
-        <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+        <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
         <FileAlignment>512</FileAlignment>
         <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
         <WarningLevel>4</WarningLevel>
@@ -74,8 +74,17 @@
           <HintPath>..\..\..\Support\KSEIApp_V1.1\System.Data.SqlServerCe.dll</HintPath>
         </Reference>
         <Reference Include="System.Drawing" />
+        <Reference Include="System.IO, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <HintPath>..\packages\Microsoft.Bcl.1.1.10\lib\net40\System.IO.dll</HintPath>
+        </Reference>
         <Reference Include="System.Net.Http">
           <HintPath>..\..\..\Support\KSEIApp_V1.1\System.Net.Http.dll</HintPath>
+        </Reference>
+        <Reference Include="System.Runtime, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <HintPath>..\packages\Microsoft.Bcl.1.1.10\lib\net40\System.Runtime.dll</HintPath>
+        </Reference>
+        <Reference Include="System.Threading.Tasks, Version=2.6.10.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+          <HintPath>..\packages\Microsoft.Bcl.1.1.10\lib\net40\System.Threading.Tasks.dll</HintPath>
         </Reference>
         <Reference Include="System.Windows.Forms" />
         <Reference Include="System.Xml" />
@@ -127,6 +136,7 @@
         <Compile Include="Tables\Tbl_ktp.cs" />
         <Compile Include="Tables\Tbl_login.cs" />
         <Compile Include="Tables\Tbl_role.cs" />
+        <Compile Include="Utils\ApiClient.cs" />
         <Compile Include="Utils\ComboboxPairs.cs" />
         <Compile Include="Utils\DBContextSingleton.cs" />
         <Compile Include="Utils\DBKTPContext.cs" />
@@ -134,6 +144,7 @@
         <Compile Include="Utils\DC_PerusahaanEfek.cs" />
         <Compile Include="Utils\loginSession.cs" />
         <Compile Include="Utils\MD_KTP.cs" />
+        <Compile Include="Utils\model.cs" />
         <Compile Include="Utils\PropertyService.cs" />
         <Compile Include="Utils\Res.cs" />
         <Compile Include="Utils\Settings.cs" />

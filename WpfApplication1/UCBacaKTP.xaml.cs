@@ -712,6 +712,8 @@ namespace WpfApplication1
                         updateCmd.Parameters.AddWithValue("@Tandatangan", this.util.ByteArrayToHexString(this.data.getTandatangan()));
                         updateCmd.Parameters.AddWithValue("@Tglinput", DateTime.Now);
                         updateCmd.ExecuteNonQuery();
+                        // select data yang telah diupdate
+                        string selectQuery = "SELECT * FROM Tbl_ktp WHERE id = @Id";
                         MessageBox.Show("Data berhasil diperbarui!", "Informasi", MessageBoxButton.OK, MessageBoxImage.Information);
                     }
                     catch (Exception ex)

@@ -1,11 +1,13 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using System.Collections.ObjectModel;
 using System.Data;
 using System.Data.SQLite;
 using System.Data.SqlServerCe;
 using System.Linq;
 using System.Linq.Expressions;
+using System.Net.Http;
 using System.Windows;
 using System.Windows.Controls;
 using libComm;
@@ -16,6 +18,7 @@ namespace WpfApplication1
 {
     public partial class UCData : UserControl
     {
+        public ObservableCollection<Customer> Customers { get; set; } = new ObservableCollection<Customer>();
         private string connectionstring = "Data Source=data.sqlite;Version=3;";
         private SQLiteConnection conn;
         private SqlCeConnection sqc;
@@ -34,11 +37,11 @@ namespace WpfApplication1
                 conn.Open();
                 dbc = DBContextSingleton.Instance;
                 // print count of data email in tbl_ktp table using manual query 
-                using (SQLiteCommand command = new SQLiteCommand("SELECT COUNT(email) FROM tbl_ktp", conn))
-                {
-                    int count = Convert.ToInt32(command.ExecuteScalar());
-                    Console.WriteLine("Count of data email in tbl_ktp table: " + count);
-                }
+                // using (SQLiteCommand command = new SQLiteCommand("SELECT COUNT(email) FROM tbl_ktp", conn))
+                // {
+                //     int count = Convert.ToInt32(command.ExecuteScalar());
+                //     Console.WriteLine("Count of data email in tbl_ktp table: " + count);
+                // }
             }
             catch (Exception e)
             {
@@ -56,7 +59,7 @@ namespace WpfApplication1
             dataLoad();
         }
         
-        private void dataLoad()
+        /*private void dataLoad()
         {
             try
             {
@@ -103,22 +106,93 @@ namespace WpfApplication1
                 this.log.LogError(ex);
                 MessageBox.Show("Terjadi kesalahan saat memuat data: " + ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
-        }
-
-        
-        public void countData()
+        }*/
+        private async void dataLoad()
         {
             try
             {
-                this.jmlcountlbl.Content = (object) this.ListKTP.Select<MD_KTP, MD_KTP>((System.Func<MD_KTP, MD_KTP>) (em => em)).Count<MD_KTP>().ToString();
+                List<Customer> customers = await ApiClient.GetAllCustomers();
+
+                // Cek apakah 'customers' null atau kosong
+                if (customers == null)
+                {
+                    Console.WriteLine("Customers is null");
+                    MessageBox.Show("Tidak ada data untuk ditampilkan.", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
+                    return;
+                }
+                if (customers.Count == 0)
+                {
+                    Console.WriteLine("Customers list is empty");
+                    MessageBox.Show("Tidak ada data untuk ditampilkan.", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
+                    return;
+                }
+
+                // Cetak jumlah data customer yang diterima
+                Console.WriteLine($"Number of customers received: {customers.Count}");
+
+                this.listktpdg.ItemsSource = customers.OrderBy(c => c.Id).Select(c => new
+                {
+                    ID = c.Id,
+                    NIK = c.Nik,
+                    NAMA = c.Nama,
+                    //TEMPATLAHIR = c.tempat_lahir,
+                    TGLLAHIR = c.tanggal_lahir?.ToString("yyyy-MM-dd"),
+                    JNSKELAMIN = c.jenis_kelamin,
+                    GOLDARAH = c.golongan_darah,
+                    ALAMAT = c.Alamat,
+                    RTRW = c.rt_rw,
+                    KEL = c.Kelurahan,
+                    KEC = c.Kecamatan,
+                    AGAMA = c.Agama,
+                    STATUSKAWIN = c.status_pernikahan,
+                    PEKERJAAN = c.Pekerjaan,
+                    KEWARGANEGARAAN = c.kewarganegaraan,
+                    BERLAKU = c.tanggal_berlaku?.ToString("yyyy-MM-dd"),
+                    PROPINSI = c.Provinsi,
+                    //FOTO = c.Foto, // Display base64 image as needed
+                    //TANDATANGAN = c.TandaTangan, // Display base64 signature as needed
+                    TGLINPUT = c.tanggal_input?.ToString("yyyy-MM-dd"),
+                    EMAIL = c.Email,
+                    //BROKER = c.Broker != null ? string.Join(", ", c.Broker.Select(b => b.Nama)) : string.Empty
+                }).ToList();
+
+                // Cetak jumlah data yang dimuat ke DataGrid
+                Console.WriteLine($"{customers.Count} records loaded.");
+
+                this.countData();
             }
             catch (Exception ex)
             {
-                this.log.LogError(ex);
+                log.LogError(ex);
+                Console.WriteLine("Terjadi kesalahan saat memuat data: " + ex.Message);
+                MessageBox.Show("Terjadi kesalahan saat memuat data: " + ex.Message, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
         }
         
-        public void loadData()
+        public async void countData()
+        {
+            try
+            {
+                List<Utils.Customer> customers = await ApiClient.GetAllCustomers();
+                var count = customers.Count;
+                this.jmlcountlbl.Content = count;
+            }
+            catch (HttpRequestException e)
+            {
+                MessageBox.Show($"Request error: {e.Message}", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+            catch (Exception e)
+            {
+                string detailedError = "Terjadi kesalahan: " + e.Message;
+                if (e.InnerException != null)
+                {
+                    detailedError += "\nInner Exception: " + e.InnerException.Message;
+                }
+                MessageBox.Show(detailedError, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+        
+        /*public void loadData()
         {
             try
             {
@@ -186,8 +260,75 @@ namespace WpfApplication1
                 }
                 MessageBox.Show(detailedError, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
             }
-        }
+        }*/
 
+
+        public async void loadData()
+        {
+            try
+            {
+                List<Customer> customers = await ApiClient.GetAllCustomers();
+
+                // Cek apakah 'customers' null atau kosong
+                if (customers == null)
+                {
+                    Console.WriteLine("Customers is null");
+                    MessageBox.Show("Tidak ada data untuk ditampilkan.", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
+                    return;
+                }
+                if (customers.Count == 0)
+                {
+                    Console.WriteLine("Customers list is empty");
+                    MessageBox.Show("Tidak ada data untuk ditampilkan.", "Info", MessageBoxButton.OK, MessageBoxImage.Information);
+                    return;
+                }
+
+                // Cetak jumlah data customer yang diterima
+                Console.WriteLine($"Number of customers received: {customers.Count}");
+
+                this.Customers = new ObservableCollection<Customer>(customers);
+
+                // Bind data ke DataGrid
+                listktpdg.ItemsSource = Customers.Select(c => new
+                {
+                    ID = c.Id,
+                    NIK = c.Nik,
+                    NAMA = c.Nama,
+                    //TEMPATLAHIR = c.tempat_lahir,
+                    TGLLAHIR = c.tanggal_lahir?.ToString("yyyy-MM-dd"),
+                    JNSKELAMIN = c.jenis_kelamin,
+                    GOLDARAH = c.golongan_darah,
+                    ALAMAT = c.Alamat,
+                    RTRW = c.rt_rw,
+                    KEL = c.Kelurahan,
+                    KEC = c.Kecamatan,
+                    AGAMA = c.Agama,
+                    STATUSKAWIN = c.status_pernikahan,
+                    PEKERJAAN = c.Pekerjaan,
+                    KEWARGANEGARAAN = c.kewarganegaraan,
+                    BERLAKU = c.tanggal_berlaku?.ToString("yyyy-MM-dd"),
+                    PROPINSI = c.Provinsi,
+                    //FOTO = c.Foto, // Display base64 image as needed
+                    //TANDATANGAN = c.TandaTangan, // Display base64 signature as needed
+                    TGLINPUT = c.tanggal_input?.ToString("yyyy-MM-dd"),
+                    EMAIL = c.Email,
+                    //BROKER = c.Broker != null ? string.Join(", ", c.Broker.Select(b => b.Nama)) : string.Empty
+                }).ToList();
+
+                // Cetak jumlah data yang dimuat ke DataGrid
+                Console.WriteLine($"{Customers.Count} records loaded.");
+            }
+            catch (Exception e)
+            {
+                string detailedError = "Terjadi kesalahan: " + e.Message;
+                if (e.InnerException != null)
+                {
+                    detailedError += "\nInner Exception: " + e.InnerException.Message;
+                }
+                Console.WriteLine(detailedError);
+                MessageBox.Show(detailedError, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
 
 
         private void clearBtn_Click(object sender, RoutedEventArgs e)

@@ -11,5 +11,10 @@
             this._Key = _key;
             this._Value = _value;
         }
+        
+        public override string ToString()
+        {
+            return _Value;
+        }
     }
 }

@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Collections.Generic;
 using System.Data.SQLite;
 using System.Data.SqlServerCe;
 using System.Windows;
@@ -16,6 +17,7 @@ namespace WpfApplication1
     /// </summary>
     public partial class MainWindow : Window, IComponentConnector
     {
+        public List<Broker> SelectedBrokers { get; set; }
         private string connectionstring = "Data Source=data.sqlite;Version=3;";
         private SQLiteConnection conn;
         private SqlCeConnection sqc;
@@ -47,6 +49,7 @@ namespace WpfApplication1
             else
             {
                 dataBtn.Visibility = Visibility.Collapsed;
+                brokerBtn.Visibility = Visibility.Collapsed;
             }
         }
 
@@ -65,7 +68,7 @@ namespace WpfApplication1
         
         public void bacaMenu()
         {
-            UCMain ucMain = new UCMain();
+            UCMain ucMain = new UCMain(new List<Broker>());
             this.gridMenu.Children.Clear();
             this.gridMenu.Children.Add(ucMain);
         }
@@ -77,17 +80,10 @@ namespace WpfApplication1
         
         private void mainBtn_Click(object sender, RoutedEventArgs e)
         {
-            UCMain ucMain = new UCMain();
+            UCMain ucMain = new UCMain(new List<Broker>());
             gridMenu.Children.Clear();
             gridMenu.Children.Add(ucMain);
         }
-        
-        // private void menuBtn_Click(object sender, RoutedEventArgs e)
-        // {
-        //     UCBacaKTP ucBacaKTP = new UCBacaKTP();
-        //     gridMenu.Children.Clear();
-        //     gridMenu.Children.Add(ucBacaKTP);
-        // }
 
         private void menuBtn_Click(object sender, RoutedEventArgs e)
         {
@@ -100,6 +96,7 @@ namespace WpfApplication1
             this.settingBtn.Background = (Brush)brushConverter.ConvertFrom((object)"#373737");
             dataBtn.Background = (Brush)brushConverter.ConvertFrom((object)"#373737");
             serviceBtn.Background = (Brush)brushConverter.ConvertFrom((object)"#373737");
+            brokerBtn.Background = (Brush)brushConverter.ConvertFrom((object)"#373737");
         }
 
         private void logoutBtn_Click(object sender, RoutedEventArgs e)
@@ -122,6 +119,7 @@ namespace WpfApplication1
             settingBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             dataBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             serviceBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
+            brokerBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
         }
 
         private void settingBtn_Click_1(object sender, RoutedEventArgs e)
@@ -134,6 +132,7 @@ namespace WpfApplication1
             settingBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#E59400");
             dataBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             serviceBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
+            brokerBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
         }
         
         private void Window_StateChanged(object sender, EventArgs e)
@@ -151,6 +150,7 @@ namespace WpfApplication1
             managementUserBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             settingBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             dataBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
+            brokerBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
         }
 
         private void dataBtn_Click(object sender, RoutedEventArgs e)
@@ -171,10 +171,11 @@ namespace WpfApplication1
             UCBroker ucBroker = new UCBroker();
             gridMenu.Children.Clear();
             gridMenu.Children.Add(ucBroker);
-            dataBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
+            brokerBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#E59400");
             menuBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             managementUserBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             settingBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
+            dataBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
             serviceBtn.Background = (Brush)new BrushConverter().ConvertFrom((object)"#373737");
         }
     }

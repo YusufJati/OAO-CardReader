@@ -61,8 +61,6 @@ D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\Newtonso
 D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\libComm.pdb
 D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\Newtonsoft.Json.xml
 D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\obj\Debug\WpfAppli.A746E0EC.Up2Date
-D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\System.Net.Http.dll
-D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\System.Net.Http.xml
 D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.dll
 D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\EntityFramework.SqlServer.dll
 D:\Magang\Real Create Scratch\WpfApplication1\WpfApplication1\bin\Debug\System.Data.SQLite.dll
