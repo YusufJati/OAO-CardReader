@@ -196,7 +196,7 @@ namespace WpfApplication1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApplication1;component/ucupdate.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KTP_Reader;component/ucupdate.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\UCUpdate.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

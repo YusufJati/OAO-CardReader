@@ -4,7 +4,7 @@
         xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplication1"
-        Title="Aplikasi Pembaca KTP-el v1.1" WindowStartupLocation="CenterScreen" Icon="Images/idxsti.ico"
+        Title="Aplikasi Pembaca KTP-el v1.1" WindowStartupLocation="CenterScreen" Icon="Images/IDXSTILOG.ico"
         WindowState="Maximized" Width="1494">
   
   <Grid Margin="0,0,2,0">
@@ -47,7 +47,7 @@
         <Frame x:Name="frame" Content="" Margin="17,-3,0,0" Height="52" VerticalAlignment="Top"
            HorizontalAlignment="Left" Width="100">
       <Control.Background>
-        <ImageBrush ImageSource="Images/idxsti.png"/>
+        <ImageBrush ImageSource="Images/info.png"/>
       </Control.Background>
     </Frame>
     <Label x:Name="label" Content="PT IDX Solusi Teknologi Informasi" HorizontalAlignment="Left" Margin="41,0,0,5"
@@ -67,7 +67,7 @@
         </TransformGroup>
       </UIElement.RenderTransform>
       <Control.Background>
-        <ImageBrush ImageSource="Images/idxsti.ico"/>
+        <ImageBrush ImageSource="Images/IDXSTILOG.ico"/>
       </Control.Background>
     </Frame>
     <Button Click="logoutBtn_Click" x:Name="logoutBtn" Margin="0,0,3,-1"
@@ -94,7 +94,7 @@
         <TextBlock Text="     Pengelolaan User" FontSize="16"/>
       </StackPanel>
     </Button> 
-    <Button Click="settingBtn_Click_1" x:Name="settingBtn" HorizontalAlignment="Left" Margin="617,48,0,0"
+    <!--<Button Click="settingBtn_Click_1" x:Name="settingBtn" HorizontalAlignment="Left" Margin="617,48,0,0"
             VerticalAlignment="Top" Width="167" Height="40"
             FontFamily="Arial" FontSize="14.667"
             Style="{StaticResource ButtonMenuLogReader}"
@@ -102,7 +102,7 @@
       <StackPanel>
         <TextBlock Text="   Pengaturan" FontSize="16"/>
       </StackPanel>
-    </Button> 
+    </Button>--> 
      <Button Click="dataBtn_Click" x:Name="dataBtn" HorizontalAlignment="Left" Margin="795,48,0,0"
             VerticalAlignment="Top" Width="167" Height="40" Style="{StaticResource ButtonMenuLogReader}"
             FontSize="14.667">
@@ -110,7 +110,7 @@
         <TextBlock Text="    Data" FontSize="16"/>
       </StackPanel>
     </Button> 
-    <Button Click="brokerBtn_Click" x:Name="brokerBtn" HorizontalAlignment="Left" Margin="973,48,0,0"
+    <Button Click="brokerBtn_Click" x:Name="brokerBtn" HorizontalAlignment="Left" Margin="617,48,0,0"
             VerticalAlignment="Top" Width="167" Height="40" Style="{StaticResource ButtonMenuLogReader}"
             FontSize="14.667">
       <StackPanel>

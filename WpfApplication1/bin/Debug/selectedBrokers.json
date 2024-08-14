@@ -1,0 +1,26 @@
+[
+  {
+    "ID": 1,
+    "KODE_PERUSAHAAN": "PP",
+    "NAMA_PERUSAHAAN": "PT Aldiracita Sekuritas Indonesia",
+    "Alamat": null,
+    "nomor_telepon": null,
+    "IsSelected": true
+  },
+  {
+    "ID": 3,
+    "KODE_PERUSAHAAN": "ID",
+    "NAMA_PERUSAHAAN": "PT Anugerah Sekuritas Indonesia",
+    "Alamat": null,
+    "nomor_telepon": null,
+    "IsSelected": true
+  },
+  {
+    "ID": 8,
+    "KODE_PERUSAHAAN": "AR",
+    "NAMA_PERUSAHAAN": "PT Binaartha Sekuritas",
+    "Alamat": null,
+    "nomor_telepon": null,
+    "IsSelected": true
+  }
+]

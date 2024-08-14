@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WpfApplication1"
         Title="Login" Height="235.851" Width="454.452" WindowStartupLocation="CenterScreen"
-        ResizeMode="CanMinimize" Icon="Images/idxsti.ico">
+        ResizeMode="CanMinimize" Icon="Images/IDXSTILOG.ico">
   <Grid>
     <Grid.ColumnDefinitions>
       <ColumnDefinition/>

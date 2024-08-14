@@ -15,7 +15,17 @@ namespace WpfApplication1.Utils
       private UtilImageText utilimage = new UtilImageText();
       private UtilImageText util = new UtilImageText();
 
-      public bool checkFolderExist(string path, ref string _folderpath)
+        public string ByteArrayToBase64(byte[] byteArray)
+        {
+            return Convert.ToBase64String(byteArray);
+        }
+
+        public byte[] Base64ToByteArray(string base64String)
+        {
+            return Convert.FromBase64String(base64String);
+        }
+
+        public bool checkFolderExist(string path, ref string _folderpath)
       {
         bool flag;
         try

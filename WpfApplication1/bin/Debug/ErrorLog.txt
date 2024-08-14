@@ -2859,3 +2859,435 @@ StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create 
 Source: WpfApplication1
 -----------------------------------------------------------
 
+31/07/2024 09:01:39 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 151
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 03:46:02 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 03:46:18 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:40:31 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:40:55 PM  :  Close Port
+31/07/2024 04:40:55 PM  :  Close Port
+31/07/2024 04:41:56 PM  :  Close Port
+31/07/2024 04:41:56 PM  :  Close Port
+31/07/2024 04:42:37 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:42:38 PM  :  Close Port
+31/07/2024 04:42:38 PM  :  Close Port
+31/07/2024 04:43:38 PM  :  Close Port
+31/07/2024 04:43:38 PM  :  Close Port
+31/07/2024 04:44:39 PM  :  Close Port
+31/07/2024 04:44:39 PM  :  Close Port
+31/07/2024 04:44:44 PM  :  Close Port
+31/07/2024 04:44:44 PM  :  Close Port
+31/07/2024 04:44:49 PM  :  Close Port
+31/07/2024 04:44:49 PM  :  Close Port
+31/07/2024 04:44:50 PM  :  Close Port
+31/07/2024 04:46:15 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:49:57 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:50:03 PM  :  Close Port
+31/07/2024 04:53:12 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:53:22 PM  :  Close Port
+31/07/2024 04:54:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 04:54:08 PM  :  Close Port
+31/07/2024 05:07:01 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+31/07/2024 05:07:03 PM  :  Close Port
+01/08/2024 06:52:19 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 10:34:17 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 10:34:21 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 10:35:31 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 11:09:06 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 11:09:51 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 11:20:20 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 01:11:37 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 04:11:58 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+05/08/2024 04:46:05 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:38:06 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:38:13 PM  :  Close Port
+06/08/2024 01:39:02 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:39:04 PM  :  Close Port
+06/08/2024 01:45:25 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:45:28 PM  :  Close Port
+06/08/2024 01:51:01 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:51:04 PM  :  Close Port
+06/08/2024 01:52:29 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:52:39 PM  :  Close Port
+06/08/2024 01:58:14 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 01:58:17 PM  :  Close Port
+06/08/2024 02:00:48 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 160
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 02:00:50 PM  :  Close Port
+06/08/2024 02:18:46 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 02:18:51 PM  :  Close Port
+06/08/2024 02:27:07 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: WpfApplication1
+-----------------------------------------------------------
+
+06/08/2024 02:27:15 PM  :  Close Port
+06/08/2024 02:27:37 PM  :  Close Port
+06/08/2024 02:30:21 PM  :  Close Port
+06/08/2024 03:23:39 PM
+-----------------------------------------------------------
+Message: Unexpected character encountered while parsing value: {. Path '', line 2, position 3.
+StackTrace:    at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at WpfApplication1.UCMain.LoadAB() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 500
+Source: Newtonsoft.Json
+-----------------------------------------------------------
+
+06/08/2024 03:23:53 PM
+-----------------------------------------------------------
+Message: Unexpected character encountered while parsing value: {. Path '', line 2, position 3.
+StackTrace:    at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at WpfApplication1.UCMain.LoadAB() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 500
+Source: Newtonsoft.Json
+-----------------------------------------------------------
+
+06/08/2024 03:24:14 PM
+-----------------------------------------------------------
+Message: Unexpected character encountered while parsing value: {. Path '', line 2, position 3.
+StackTrace:    at Newtonsoft.Json.JsonTextReader.ReadNumberValue(ReadType readType)
+   at Newtonsoft.Json.JsonTextReader.ReadAsInt32()
+   at Newtonsoft.Json.JsonReader.ReadForType(JsonContract contract, Boolean hasConverter)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.PopulateList(IList list, JsonReader reader, JsonArrayContract contract, JsonProperty containerProperty, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateList(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, Object existingValue, String id)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.CreateValueInternal(JsonReader reader, Type objectType, JsonContract contract, JsonProperty member, JsonContainerContract containerContract, JsonProperty containerMember, Object existingValue)
+   at Newtonsoft.Json.Serialization.JsonSerializerInternalReader.Deserialize(JsonReader reader, Type objectType, Boolean checkAdditionalContent)
+   at Newtonsoft.Json.JsonSerializer.DeserializeInternal(JsonReader reader, Type objectType)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject(String value, Type type, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value, JsonSerializerSettings settings)
+   at Newtonsoft.Json.JsonConvert.DeserializeObject[T](String value)
+   at WpfApplication1.UCMain.LoadAB() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCMain.xaml.cs:line 500
+Source: Newtonsoft.Json
+-----------------------------------------------------------
+
+06/08/2024 04:55:10 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: WpfApplication1
+-----------------------------------------------------------
+
+08/08/2024 08:36:30 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: WpfApplication1
+-----------------------------------------------------------
+
+08/08/2024 08:36:39 AM  :  Close Port
+08/08/2024 01:36:13 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+08/08/2024 01:36:25 PM  :  Close Port
+08/08/2024 01:36:25 PM  :  Close Port
+08/08/2024 01:37:25 PM  :  Close Port
+08/08/2024 01:37:25 PM  :  Close Port
+08/08/2024 01:38:25 PM  :  Close Port
+08/08/2024 01:38:25 PM  :  Close Port
+08/08/2024 01:38:30 PM  :  Close Port
+08/08/2024 01:38:30 PM  :  Close Port
+08/08/2024 01:38:35 PM  :  Close Port
+08/08/2024 01:38:35 PM  :  Close Port
+08/08/2024 01:38:36 PM  :  Close Port
+09/08/2024 09:34:29 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+09/08/2024 09:34:57 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+09/08/2024 03:10:51 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 07:15:05 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 07:16:22 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 07:17:13 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 07:17:42 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 07:18:22 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 07:19:08 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 08:56:12 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 08:56:57 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 09:28:46 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 09:30:35 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 11:57:34 AM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 12:02:23 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+
+14/08/2024 12:08:25 PM
+-----------------------------------------------------------
+Message: Object reference not set to an instance of an object.
+StackTrace:    at WpfApplication1.UCBacaKTP.loadData() in D:\Magang\Real Create Scratch\Wednesday\WpfApplication1\WpfApplication1\UCBacaKTP.xaml.cs:line 146
+Source: KTP_Reader
+-----------------------------------------------------------
+

@@ -8,78 +8,105 @@
              xmlns:ed="http://schemas.microsoft.com/expression/2010/drawing"
              UseLayoutRounding="true" ClipToBounds="true" SnapsToDevicePixels="true" Height="1095.715"
              IsHitTestVisible="true" Width="1804">
-       <UserControl.Resources>
-              <ResourceDictionary>
-                     <ResourceDictionary.MergedDictionaries>
-                            <ResourceDictionary Source="/Styles/buttonbacaktpel.xaml"/>
-                            <ResourceDictionary Source="Styles/buttonsimpan.xaml"/>
-                            <ResourceDictionary Source="Styles/buttonprint.xaml"/>
-                            <ResourceDictionary Source="Styles/buttonexport.xaml"/>
-                            <ResourceDictionary Source="Styles/buttondelete.xaml"/>
-                     </ResourceDictionary.MergedDictionaries>
-              </ResourceDictionary>
-       </UserControl.Resources>
-       <Grid Margin="6,0,8,16">
-           <DataGrid x:Name="listktpdg" Margin="2,43,958,0" VerticalAlignment="Top" Height="515"/>
-           <RadioButton x:Name="cwDirection" Margin="0,35,116,0" GroupName="direction" Content="CW" IsChecked="True"
-                        Height="15" VerticalAlignment="Top" HorizontalAlignment="Right" Width="56" Visibility="Hidden"/>
-           <CheckBox x:Name="symmetrical" Content="Symmetrical arrange?" Margin="4" IsChecked="True" Visibility="Hidden"/>
-           <CheckBox x:Name="spinning" Content="Spinning?" Margin="0,12,67,0" HorizontalAlignment="Right" Width="105"
-                     Height="17" VerticalAlignment="Top" Visibility="Hidden"/>
-           <Label Name="radiuslbl" Content="80" Height="28" Visibility="Hidden" Margin="0,210"/>
-           <Label Name="countlbl" Content="20" Height="28" Visibility="Hidden" Margin="0,210"/>
-           <Label Name="dotradiuslbl" Content="11" Height="28" Visibility="Hidden" Margin="0,210"/>
-           <Label Name="speedlbl" Content="1" Height="28" Visibility="Hidden" Margin="0,210"/>
-           <Button Click="exportallBtn_Click" x:Name="exportallBtn" Content="         Export All"
-                   HorizontalAlignment="Left" Margin="6,566,0,0" Width="129" FontFamily="Calibri" FontSize="16"
-                   Height="37" VerticalAlignment="Top"
-                   Style="{StaticResource export}"
-                   RenderTransformOrigin="0.5,0.5"/>
-           <Button Click="clearBtn_Click" x:Name="clearBtn" Content="         Clear Data" HorizontalAlignment="Left"
-                   Margin="147,566,0,0" VerticalAlignment="Top" Width="129" Height="37" FontFamily="Calibri"
-                   FontSize="16"
-                   Style="{StaticResource delete}"
-                   RenderTransformOrigin="0.5,0.5"/>
-           <Label x:Name="label2" Content="Data hari ini :" HorizontalAlignment="Left" Margin="7,11,0,0"
-                  VerticalAlignment="Top" FontSize="16" FontFamily="Calibri"/>
-           <Label x:Name="jmlcountlbl" Content="Count" HorizontalAlignment="Left" Margin="103,13,0,0"
-                  VerticalAlignment="Top"/>
-<GroupBox x:Name="addInfo" Header="Informasi Data User" HorizontalAlignment="Left" Margin="880,50,10,10"
-          VerticalAlignment="Top" Height="515" Width="600" FontSize="16" FontFamily="Calibri">
-    <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
-        <Grid>
-            <Grid.ColumnDefinitions>
-                <ColumnDefinition Width="25*"/>
-                <ColumnDefinition Width="75*"/>
-            </Grid.ColumnDefinitions>
-            <TextBlock x:Name="infoText1" Text="1. NIK: Nomor Induk Kependudukan yang terdiri dari 16 digit. Pastikan NIK sesuai dengan yang tertera di KTP."
-                       TextWrapping="Wrap" Margin="10,10,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText2" Text="2. Nama: Masukkan nama lengkap sesuai dengan yang tertera di KTP. Nama harus diisi tanpa singkatan."
-                       TextWrapping="Wrap" Margin="10,40,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText3" Text="3. Tempat/Tanggal Lahir: Isi tempat lahir dan tanggal lahir sesuai dengan format yang tertera di KTP (DD-MM-YYYY)."
-                       TextWrapping="Wrap" Margin="10,70,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText4" Text="4. Alamat: Masukkan alamat lengkap sesuai dengan yang tertera di KTP, termasuk RT/RW, Kelurahan, dan Kecamatan."
-                       TextWrapping="Wrap" Margin="10,100,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText5" Text="5. Golongan Darah: Pilih golongan darah sesuai dengan yang tertera di KTP."
-                       TextWrapping="Wrap" Margin="10,130,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText6" Text="6. Agama: Pilih agama sesuai dengan yang tertera di KTP."
-                       TextWrapping="Wrap" Margin="10,160,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText7" Text="7. Status Perkawinan: Pilih status perkawinan sesuai dengan yang tertera di KTP."
-                       TextWrapping="Wrap" Margin="10,190,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText8" Text="8. Pekerjaan: Pilih pekerjaan sesuai dengan yang tertera di KTP."
-                          TextWrapping="Wrap" Margin="10,220,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText9" Text="9. Kewarganegaraan: Pilih kewarganegaraan sesuai dengan yang tertera di KTP."
-                            TextWrapping="Wrap" Margin="10,250,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText10" Text="10. Berlaku Hingga: Isi tanggal berlaku KTP sesuai dengan format yang tertera di KTP (DD-MM-YYYY)."
-                            TextWrapping="Wrap" Margin="10,280,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText11" Text="11. Anggota Broker: anggota broker yang telah dipilih pada saat registrasi"
-                            TextWrapping="Wrap" Margin="10,310,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText12" Text="12. Email: email yang digunakan untuk registrasi"
-                            TextWrapping="Wrap" Margin="10,340,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-            <TextBlock x:Name="infoText13" Text="Data ini hanya bisa diakses oleh admin dan hanya dapat dilihat"
-                            TextWrapping="Wrap" Margin="10,370,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top" FontWeight="Bold"/>
-        </Grid>
-    </ScrollViewer>
-</GroupBox>
-       </Grid>
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="/Styles/buttonbacaktpel.xaml"/>
+                <ResourceDictionary Source="Styles/buttonsimpan.xaml"/>
+                <ResourceDictionary Source="Styles/buttonprint.xaml"/>
+                <ResourceDictionary Source="Styles/buttonexport.xaml"/>
+                <ResourceDictionary Source="Styles/buttondelete.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+    <Grid Margin="6,0,8,16">
+        <DataGrid x:Name="listktpdg" Margin="2,43,958,0" VerticalAlignment="Top" Height="515" AutoGenerateColumns="False">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="ID" Binding="{Binding ID}" />
+                <DataGridTextColumn Header="NIK" Binding="{Binding NIK}" />
+                <DataGridTextColumn Header="Nama" Binding="{Binding NAMA}" />
+                <DataGridTextColumn Header="Tempat Lahir" Binding="{Binding TEMPATLAHIR}" />
+                <DataGridTextColumn Header="Tanggal Lahir" Binding="{Binding TGLLAHIR}" />
+                <DataGridTextColumn Header="Jenis Kelamin" Binding="{Binding JNSKELAMIN}" />
+                <DataGridTextColumn Header="Golongan Darah" Binding="{Binding GOLDARAH}" />
+                <DataGridTextColumn Header="Alamat" Binding="{Binding ALAMAT}" />
+                <DataGridTextColumn Header="RT/RW" Binding="{Binding RTRW}" />
+                <DataGridTextColumn Header="Kel/Desa" Binding="{Binding KEL}" />
+                <DataGridTextColumn Header="Kecamatan" Binding="{Binding KEC}" />
+                <DataGridTextColumn Header="Agama" Binding="{Binding AGAMA}" />
+                <DataGridTextColumn Header="Status Kawin" Binding="{Binding STATUSKAWIN}" />
+                <DataGridTextColumn Header="Pekerjaan" Binding="{Binding PEKERJAAN}" />
+                <DataGridTextColumn Header="Kewarganegaraan" Binding="{Binding KEWARGANEGARAAN}" />
+                <DataGridTextColumn Header="Berlaku Hingga" Binding="{Binding BERLAKU}" />
+                <DataGridTextColumn Header="Provinsi" Binding="{Binding PROPINSI}" />
+                <DataGridTextColumn Header="Kota" Binding="{Binding KOTA}" />
+                <DataGridTemplateColumn Header="Foto">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding FOTO}" Width="100" Height="100"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="Tanda Tangan">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding TANDATANGAN}" Width="100" Height="50"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTemplateColumn Header="KTP">
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Image Source="{Binding KTP}" Width="100" Height="100"/>
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+                <DataGridTextColumn Header="Tanggal Input" Binding="{Binding TGLINPUT}" />
+                <DataGridTextColumn Header="Broker" Binding="{Binding BROKER}" />
+                <DataGridTextColumn Header="Email" Binding="{Binding EMAIL}" />
+            </DataGrid.Columns>
+        </DataGrid>
+        <Label x:Name="label2" Content="Data hari ini :" HorizontalAlignment="Left" Margin="7,11,0,0"
+               VerticalAlignment="Top" FontSize="16" FontFamily="Calibri"/>
+        <Label x:Name="jmlcountlbl" Content="Count" HorizontalAlignment="Left" Margin="103,13,0,0"
+               VerticalAlignment="Top"/>
+        <GroupBox x:Name="addInfo" Header="Informasi Data User" HorizontalAlignment="Left" Margin="880,50,10,10"
+                  VerticalAlignment="Top" Height="515" Width="600" FontSize="16" FontFamily="Calibri">
+            <ScrollViewer VerticalScrollBarVisibility="Visible" HorizontalScrollBarVisibility="Visible">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="25*"/>
+                        <ColumnDefinition Width="75*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBlock x:Name="infoText1" Text="1. NIK: Nomor Induk Kependudukan yang terdiri dari 16 digit. Pastikan NIK sesuai dengan yang tertera di KTP."
+                               TextWrapping="Wrap" Margin="10,10,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText2" Text="2. Nama: Masukkan nama lengkap sesuai dengan yang tertera di KTP. Nama harus diisi tanpa singkatan."
+                               TextWrapping="Wrap" Margin="10,40,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText3" Text="3. Tempat/Tanggal Lahir: Isi tempat lahir dan tanggal lahir sesuai dengan format yang tertera di KTP (DD-MM-YYYY)."
+                               TextWrapping="Wrap" Margin="10,70,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText4" Text="4. Alamat: Masukkan alamat lengkap sesuai dengan yang tertera di KTP, termasuk RT/RW, Kelurahan, dan Kecamatan."
+                               TextWrapping="Wrap" Margin="10,100,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText5" Text="5. Golongan Darah: Pilih golongan darah sesuai dengan yang tertera di KTP."
+                               TextWrapping="Wrap" Margin="10,130,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText6" Text="6. Agama: Pilih agama sesuai dengan yang tertera di KTP."
+                               TextWrapping="Wrap" Margin="10,160,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText7" Text="7. Status Perkawinan: Pilih status perkawinan sesuai dengan yang tertera di KTP."
+                               TextWrapping="Wrap" Margin="10,190,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText8" Text="8. Pekerjaan: Pilih pekerjaan sesuai dengan yang tertera di KTP."
+                                  TextWrapping="Wrap" Margin="10,220,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText9" Text="9. Kewarganegaraan: Pilih kewarganegaraan sesuai dengan yang tertera di KTP."
+                                    TextWrapping="Wrap" Margin="10,250,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText10" Text="10. Berlaku Hingga: Isi tanggal berlaku KTP sesuai dengan format yang tertera di KTP (DD-MM-YYYY)."
+                                    TextWrapping="Wrap" Margin="10,280,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText11" Text="11. Anggota Broker: anggota broker yang telah dipilih pada saat registrasi"
+                                    TextWrapping="Wrap" Margin="10,310,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText12" Text="12. Email: email yang digunakan untuk registrasi"
+                                    TextWrapping="Wrap" Margin="10,340,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+                    <TextBlock x:Name="infoText13" Text="Data ini hanya bisa diakses oleh admin dan hanya dapat dilihat"
+                                    TextWrapping="Wrap" Margin="10,370,10,0" Grid.ColumnSpan="2" VerticalAlignment="Top" FontWeight="Bold"/>
+                </Grid>
+            </ScrollViewer>
+        </GroupBox>
+    </Grid>
 </UserControl>
+

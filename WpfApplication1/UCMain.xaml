@@ -87,58 +87,58 @@
              xmlns:Custom="http://schemas.microsoft.com/wpf/2008/toolkit"
              UseLayoutRounding="true" ClipToBounds="true" SnapsToDevicePixels="true" Height="1095.715"
              IsHitTestVisible="true" Width="1804">
-  <UserControl.Resources>
-    <Style x:Key="CenterAlignedHeaderStyle" TargetType="DataGridColumnHeader">
-      <Setter Property="HorizontalContentAlignment" Value="Center"/>
-    </Style>
-    <Style x:Key="SearchableComboBox" TargetType="{x:Type ComboBox}">
-      <Setter Property="IsEditable" Value="True"/>
-      <Setter Property="StaysOpenOnEdit" Value="True"/>
-      <EventSetter Event="PreviewKeyUp" Handler="ComboBox_PreviewKeyUp"/>
-    </Style>
-  </UserControl.Resources>
-  <Grid>
-    <GroupBox x:Name="addUserGroup" Header="Registrasi" HorizontalAlignment="Center" Margin="16,56,0,0"
-              VerticalAlignment="Top" Height="264" Width="1189" FontSize="16" FontFamily="Calibri">
-      <Grid>
-        <Grid.ColumnDefinitions>
-          <ColumnDefinition Width="25*"/>
-          <ColumnDefinition Width="422*"/>
-        </Grid.ColumnDefinitions>
-        <Label x:Name="label_Copy2" Content="Email" HorizontalAlignment="Left" Margin="16,23,0,0"
-               VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-        <Label x:Name="label_Copy4" Content="Broker" HorizontalAlignment="Left" Margin="16,82,0,0"
-               VerticalAlignment="Top" Grid.ColumnSpan="2"/>
-        <TextBox PreviewTextInput="addemailtxt_PreviewTextInput" PreviewKeyDown="addemailtxt_PreviewKeyDown"
-                 x:Name="addemailtxt" HorizontalAlignment="Left" Height="35" Margin="191,25,0,0"
+    <UserControl.Resources>
+        <Style x:Key="CenterAlignedHeaderStyle" TargetType="DataGridColumnHeader">
+            <Setter Property="HorizontalContentAlignment" Value="Center"/>
+        </Style>
+        <Style x:Key="SearchableComboBox" TargetType="{x:Type ComboBox}">
+            <Setter Property="IsEditable" Value="True"/>
+            <Setter Property="StaysOpenOnEdit" Value="True"/>
+            <EventSetter Event="PreviewKeyUp" Handler="ComboBox_PreviewKeyUp"/>
+        </Style>
+    </UserControl.Resources>
+    <Grid>
+        <GroupBox x:Name="addUserGroup" Header="Registrasi" HorizontalAlignment="Left" Margin="172,50,0,0"
+              VerticalAlignment="Top" Height="264" Width="1254" FontSize="16" FontFamily="Calibri">
+            <Grid Margin="10,0,55,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="25*"/>
+                    <ColumnDefinition Width="422*"/>
+                </Grid.ColumnDefinitions>
+                <Label x:Name="label_Copy2" Content="Email" HorizontalAlignment="Left" Margin="342,20,0,0"
+               VerticalAlignment="Top" Grid.Column="1"/>
+                <Label x:Name="label_Copy4" Content="Broker" HorizontalAlignment="Left" Margin="342,88,0,0"
+               VerticalAlignment="Top" Grid.Column="1"/>
+                <TextBox PreviewTextInput="addemailtxt_PreviewTextInput" PreviewKeyDown="addemailtxt_PreviewKeyDown"
+                 x:Name="addemailtxt" HorizontalAlignment="Center" Height="35" Margin="0,20,0,0"
                  TextWrapping="Wrap" VerticalAlignment="Top" Width="264" FontFamily="Arial" FontSize="20"
                  Grid.Column="1" MaxLength="25"/>
-        <Button Click="addUserSimpanbtn_Click" x:Name="addUserSimpanbtn" Content="     Simpan"
-                HorizontalAlignment="Left" Margin="0,155,0,40" Width="131" FontFamily="Calibri" FontSize="16"
+                <Button Click="addUserSimpanbtn_Click" x:Name="addUserSimpanbtn" Content="     Simpan"
+                HorizontalAlignment="Center" Margin="0,150,0,45" Width="131" FontFamily="Calibri" FontSize="16"
                 Grid.Column="1"
                 Style="{StaticResource simpan}"
                 RenderTransformOrigin="0.5,0.5"/>
-        <ComboBox x:Name="abcb" Style="{StaticResource SearchableComboBox}" HorizontalAlignment="Left" Margin="191,82,0,0"
+                <ComboBox x:Name="abcb" Style="{StaticResource SearchableComboBox}" HorizontalAlignment="Center" Margin="0,84,0,0"
                   VerticalAlignment="Top" Width="264" Grid.Column="1" Height="35"/>
-      </Grid>
-    </GroupBox>
-    <GroupBox x:Name="addInfo" Header="Informasi Cara Registrasi" HorizontalAlignment="Center" Margin="16,336,0,0"
-              VerticalAlignment="Top" Height="264" Width="1689" FontSize="20" FontFamily="Calibri">
-      <Grid>
-        <Grid.ColumnDefinitions>
-          <ColumnDefinition Width="25*"/>
-          <ColumnDefinition Width="422*"/>
-        </Grid.ColumnDefinitions>
-        <TextBlock x:Name="infoText1" Text="1. Email: Masukkan email yang valid. Email ini akan digunakan sebagai data untuk pembuatan akun."
+            </Grid>
+        </GroupBox>
+        <GroupBox x:Name="addInfo" Header="Informasi Cara Registrasi" HorizontalAlignment="Left" Margin="172,369,0,0"
+              VerticalAlignment="Top" Height="264" Width="1254" FontSize="20" FontFamily="Calibri">
+            <Grid Margin="0,0,53,0">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="25*"/>
+                    <ColumnDefinition Width="422*"/>
+                </Grid.ColumnDefinitions>
+                <TextBlock x:Name="infoText1" Text="1. Email: Masukkan email yang valid. Email ini akan digunakan sebagai data untuk pembuatan akun."
                    TextWrapping="Wrap" Margin="16,20,0,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-        <TextBlock x:Name="infoText2" Text="2. Broker: Pilih broker yang akan digunakan untuk registrasi. Pastikan broker yang dipilih sesuai dengan kebutuhan."
+                <TextBlock x:Name="infoText2" Text="2. Broker: Pilih broker yang akan digunakan untuk registrasi. Pastikan broker yang dipilih sesuai dengan kebutuhan."
                    TextWrapping="Wrap" Margin="16,65,0,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-        <TextBlock x:Name="infoText3" Text="3. List Broker: Terdapat daftar broker yang dapat dipilih. Pastikan broker yang dipilih sesuai dengan kebutuhan."
+                <TextBlock x:Name="infoText3" Text="3. List Broker: Terdapat daftar broker yang dapat dipilih. Pastikan broker yang dipilih sesuai dengan kebutuhan."
                    TextWrapping="Wrap" Margin="16,120,0,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
-        <TextBlock x:Name="infoText4" Text="4. Setelah klik simpan maka lakukan pembacaan KTP pada menu Baca KTP." FontWeight="Bold"
-                   TextWrapping="Wrap" Margin="16,170,0,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>      
-      </Grid>
-    </GroupBox>
-  </Grid>
+                <TextBlock x:Name="infoText4" Text="4. Setelah klik simpan maka lakukan pembacaan KTP pada menu Baca KTP." FontWeight="Bold"
+                   TextWrapping="Wrap" Margin="16,170,0,0" Grid.ColumnSpan="2" VerticalAlignment="Top"/>
+            </Grid>
+        </GroupBox>
+    </Grid>
 </UserControl>
 

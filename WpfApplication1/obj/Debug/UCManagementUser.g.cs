@@ -236,7 +236,7 @@ namespace WpfApplication1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApplication1;component/ucmanagementuser.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KTP_Reader;component/ucmanagementuser.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\UCManagementUser.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

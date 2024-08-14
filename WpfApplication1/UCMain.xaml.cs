@@ -298,21 +298,26 @@ using System.Windows;
 using System.Windows.Controls;
 using System.Windows.Input;
 using libComm;
+using Newtonsoft.Json;
 using WpfApplication1.Utils;
+using static WpfApplication1.UCBroker;
 
 namespace WpfApplication1
 {
     public partial class UCMain : UserControl
     {
+        public int SelectedBrokerId { get; set; }
         private string connectionstring = "Data Source=./data.sqlite;Version=3;";
         private SQLiteConnection conn;
         private DBKTPContext dbc;
         private UtilLog log = new UtilLog();
         private List<ComboboxPairs> brokerList;
+        private UCBroker ucBroker;
+
 
         public MainWindow _mainWindow { get; set; }
 
-        public UCMain(List<Broker> selectedBrokers)
+        public UCMain()
         {
             try
             {
@@ -320,25 +325,29 @@ namespace WpfApplication1
                 conn.Open();
                 dbc = DBContextSingleton.Instance;
             }
+
             catch (Exception e)
             {
                 MessageBox.Show("Error: " + e.Message);
             }
+            //SelectedBrokerId = selectedBrokerId;
             InitializeComponent();
             //LoadAB(selectedBrokers);
             LoadAB();
         }
-        
-        private void addUserSimpanbtn_Click(object sender, RoutedEventArgs e)
+
+
+        private async void addUserSimpanbtn_Click(object sender, RoutedEventArgs e)
         {
             try
             {
+
                 // Ensure the connection is open
-                if (conn.State == ConnectionState.Closed)
-                {
-                    conn.Open();
-                }
-                
+                // if (conn.State == ConnectionState.Closed)
+                // {
+                //     conn.Open();
+                // }
+
                 // Check if email not empty
                 if (string.IsNullOrWhiteSpace(addemailtxt.Text))
                 {
@@ -355,8 +364,8 @@ namespace WpfApplication1
 
                 string selectedBrokerID = abcb.SelectedValue.ToString();
 
-                // // Validate email format
-                 if (string.IsNullOrWhiteSpace(addemailtxt.Text) || !IsEmailValid(addemailtxt.Text))
+                // Validate email format
+                 if (string.IsNullOrWhiteSpace(addemailtxt.Text) || !IsEmailValid2(addemailtxt.Text))
                  {
                      MessageBox.Show("Email tidak valid.", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
                      return;
@@ -369,34 +378,59 @@ namespace WpfApplication1
                     return;
                 }
 
-                // SQL query to insert data
-                string query = "INSERT INTO Tbl_ktp (id_broker, email) VALUES (@id_broker, @email)";
-
-                // Create a command object
-                using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
+                var customer = new CustemerRegist1()
                 {
-                    // Add parameters to the command
-                    cmd.Parameters.AddWithValue("@id_broker", selectedBrokerID);
-                    cmd.Parameters.AddWithValue("@email", addemailtxt.Text);
+                    email = addemailtxt.Text,
+                    broker_id = int.Parse(selectedBrokerID)
+                };
 
-                    // Execute the command and check if rows were affected
-                    int rowsAffected = cmd.ExecuteNonQuery();
+               //MessageBox.Show("Payload: " + JsonConvert.SerializeObject(customer));
 
-                    if (rowsAffected > 0)
-                    {
-                        // Show success message
-                        MessageBox.Show("Data berhasil disimpan!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
-                        MessageBox.Show("Lanjut lakukan baca KTP", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                bool isSuccess = await ApiClient.CreateCustomerRegist1(customer);
 
-                        // Clear the input fields
-                        addemailtxt.Clear();
-                        abcb.SelectedIndex = -1;
-                    }
-                    else
-                    {
-                        // Show failure message
-                        MessageBox.Show("Data tidak berhasil disimpan.", "Failure", MessageBoxButton.OK, MessageBoxImage.Warning);
-                    }
+                // SQL query to insert data
+                //string query = "INSERT INTO Tbl_ktp (id_broker, email) VALUES (@id_broker, @email)";
+
+                //// Create a command object
+                //using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
+                //{
+                //    // Add parameters to the command
+                //    cmd.Parameters.AddWithValue("@id_broker", selectedBrokerID);
+                //    cmd.Parameters.AddWithValue("@email", addemailtxt.Text);
+
+                //    // Execute the command and check if rows were affected
+                //    int rowsAffected = cmd.ExecuteNonQuery();
+
+                //    if (rowsAffected > 0)
+                //    {
+                //        // Show success message
+                //        MessageBox.Show("Data berhasil disimpan!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                //        MessageBox.Show("Lanjut lakukan baca KTP", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                //        // Clear the input fields
+                //        addemailtxt.Clear();
+                //        abcb.SelectedIndex = -1;
+                //    }
+                //    else
+                //    {
+                //        // Show failure message
+                //        MessageBox.Show("Data tidak berhasil disimpan.", "Failure", MessageBoxButton.OK, MessageBoxImage.Warning);
+                //    }}
+
+                if (isSuccess)
+                {
+                    // Show success message
+                    MessageBox.Show("Data berhasil disimpan!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+                    MessageBox.Show("Lanjut lakukan baca KTP", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+
+                    // Clear the input fields
+                    addemailtxt.Clear();
+                    abcb.SelectedIndex = -1;
+                }
+                else
+                {
+                    // Show failure message
+                    MessageBox.Show("Data tidak berhasil disimpan.", "Failure", MessageBoxButton.OK, MessageBoxImage.Warning);
                 }
             }
             catch (Exception ex)
@@ -406,7 +440,20 @@ namespace WpfApplication1
                 {
                     detailedError += "\nInner Exception: " + ex.InnerException.Message;
                 }
-                MessageBox.Show(detailedError, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                Console.WriteLine(detailedError, "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private bool IsEmailValid2(string email)
+        {
+            try
+            {
+                var addr = new System.Net.Mail.MailAddress(email);
+                return addr.Address == email;
+            }
+            catch
+            {
+                return false;
             }
         }
 
@@ -425,33 +472,47 @@ namespace WpfApplication1
                 return false;
             }
         }
-        
-        private void LoadAB()
+
+        private async void LoadAB()
         {
             try
             {
-                if (conn.State == ConnectionState.Closed)
+                //if (conn.State == ConnectionState.Closed)
+                //{
+                //    conn.Open();
+                //}
+
+                //string query = "SELECT id_broker, Nama FROM Tbl_perusahaan_efek LIMIT 2";
+                ////string query = "SELECT id_broker, Nama FROM Tbl_perusahaan_efek";
+                //DataTable dt = new DataTable();
+                //using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
+                //{
+                //    using (SQLiteDataAdapter da = new SQLiteDataAdapter(cmd))
+                //    {
+                //        da.Fill(dt);
+                //    }
+                //}
+
+                //brokerList = new List<ComboboxPairs>();
+                //foreach (DataRow row in dt.Rows)
+                //{
+                //    brokerList.Add(new ComboboxPairs(row["id_broker"].ToString(), row["Nama"].ToString()));
+                //}
+
+                // Panggil API untuk mendapatkan daftar broker
+                List<Utils.Broker> brokers = await ApiClient.GetAllBrokers();
+
+                // Batasi jumlah broker yang akan ditampilkan
+                var selectedBrokers = brokers.Where(b => UCBroker.simpanId.Contains(b.Id)).ToList();
+                var randomBrokers = brokers.OrderBy(b => Guid.NewGuid()).Take(5);
+
+                // Buat daftar pasangan kunci-nilai untuk ComboBox
+                List<ComboboxPairs> brokerList = new List<ComboboxPairs>();
+                foreach (var broker in selectedBrokers)
                 {
-                    conn.Open();
-                }
-                
-                // Only show first 2 data
-                string query = "SELECT id_broker, Nama FROM Tbl_perusahaan_efek LIMIT 2";
-                //string query = "SELECT id_broker, Nama FROM Tbl_perusahaan_efek";
-                DataTable dt = new DataTable();
-                using (SQLiteCommand cmd = new SQLiteCommand(query, conn))
-                {
-                    using (SQLiteDataAdapter da = new SQLiteDataAdapter(cmd))
-                    {
-                        da.Fill(dt);
-                    }
+                    brokerList.Add(new ComboboxPairs(broker.Id.ToString(), broker.nama));
                 }
 
-                brokerList = new List<ComboboxPairs>();
-                foreach (DataRow row in dt.Rows)
-                {
-                    brokerList.Add(new ComboboxPairs(row["id_broker"].ToString(), row["Nama"].ToString()));
-                }
 
                 abcb.ItemsSource = brokerList;
                 abcb.SelectedValuePath = "_Key";
@@ -462,15 +523,15 @@ namespace WpfApplication1
                 log.LogError(e);
                 MessageBox.Show("Error: " + e.Message);
             }
-            finally
-            {
-                if (conn.State == ConnectionState.Open)
-                {
-                    conn.Close();
-                }
-            }
+            //finally
+            //{
+            //    if (conn.State == ConnectionState.Open)
+            //    {
+            //        conn.Close();
+            //    }
+            //}
         }
-        
+
         /*
         private void LoadAB(List<Broker> selectedBrokers)
         {

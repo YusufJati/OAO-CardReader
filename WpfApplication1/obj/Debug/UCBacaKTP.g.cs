@@ -589,7 +589,7 @@ namespace WpfApplication1 {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/WpfApplication1;component/ucbacaktp.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/KTP_Reader;component/ucbacaktp.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\UCBacaKTP.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

@@ -5,6 +5,35 @@ namespace WpfApplication1.Utils
 {
     public class Customer
     {
+        public int id { get; set; }
+        public string nik { get; set; }
+        public string nama { get; set; }
+        public string alamat { get; set; }
+        public string kelurahan { get; set; }
+        public string kecamatan { get; set; }
+        public string provinsi { get; set; }
+        public string kota { get; set; }
+        public string tempat_lahir { get; set; }
+        public DateTime? tanggal_lahir { get; set; }
+        public string jenis_kelamin { get; set; }
+        public string golongan_darah { get; set; }
+        public string status_pernikahan { get; set; }
+        public string rt_rw { get; set; }
+        public string agama { get; set; }
+        public string kewarganegaraan { get; set; }
+        public string pekerjaan { get; set; }
+        public DateTime? tanggal_berlaku { get; set; }
+        public string foto { get; set; }
+        public string tanda_tangan { get; set; }
+        public string ktp_capture { get; set; }
+        public DateTime? tanggal_input { get; set; }
+        public string email { get; set; }
+
+        //public List<Broker> Broker { get; set; }
+    }
+
+    public class Customer2
+    {
         public int Id { get; set; }
         public string Nik { get; set; }
         public string Nama { get; set; }
@@ -13,8 +42,9 @@ namespace WpfApplication1.Utils
         public string Kelurahan { get; set; }
         public string Kecamatan { get; set; }
         public string Provinsi { get; set; }
+        public string Kota { get; set; }
+        public string tempat_lahir { get; set; }
         public DateTime? tanggal_lahir { get; set; }
-        //public string tempat_lahir { get; set; }
         public string jenis_kelamin { get; set; }
         public string golongan_darah { get; set; }
         public string status_pernikahan { get; set; }
@@ -23,10 +53,11 @@ namespace WpfApplication1.Utils
         public string kewarganegaraan { get; set; }
         public string Pekerjaan { get; set; }
         public DateTime? tanggal_berlaku { get; set; }
-        //public string Foto { get; set; }
-        //public string TandaTangan { get; set; }
+        public string foto { get; set; }
+        public string tanda_tangan { get; set; }
+        public string ktp_capture { get; set; }
         public DateTime? tanggal_input { get; set; }
-        public List<Broker> Broker { get; set; }
+        public string broker { get; set; }
     }
 
     public class Broker
@@ -41,17 +72,54 @@ namespace WpfApplication1.Utils
         public bool IsSelected { get; set; }
     }
 
+    public class CustemerRegist1
+    {
+        public string email { get; set; }
+        public int broker_id { get; set; }
+    }
+
+    public class CustomerRegist2
+    {
+        public int id { get; set; }
+        public string nik { get; set; }
+        public string nama { get; set; }
+        public string tempat_lahir { get; set; }
+        public DateTime? tanggal_lahir { get; set; }
+        public string jenis_kelamin { get; set; }
+        public string golongan_darah { get; set; }
+        public string status_pernikahan { get; set; }
+        public string alamat { get; set; }
+        public string rt_rw { get; set; }
+        public string kelurahan { get; set; }
+        public string kecamatan { get; set; }
+        public string agama { get; set; }
+        public string pekerjaan { get; set; }
+        public string kewarganegaraan { get; set; }
+        public DateTime? tanggal_berlaku { get; set; }
+        public string provinsi { get; set; }
+        public string kota { get; set; }
+        public string foto { get; set; }
+        public string tanda_tangan { get; set; }
+        public string ktp_capture { get; set; }
+        public DateTime? tanggal_input { get; set; }
+        public string email { get; set; }
+
+        //public List<Broker> Broker { get; set; }
+    }
+
+
+
     public class CustomerTransaction
     {
-        public int Id { get; set; }
-        public int CustomerId { get; set; }
-        public int? BrokerId { get; set; }
-        public DateTime? CreatedAt { get; set; }
-        public DateTime? UpdatedAt { get; set; }
-        public string CreatedBy { get; set; }
-        public string UpdatedBy { get; set; }
-        public string Email { get; set; }
-        public string KodeOtp { get; set; }
+        public int id { get; set; }
+        public int customer_id { get; set; }
+        public string email { get; set; }
+        public int? broker_id { get; set; }
+        public DateTime? created_at { get; set; }
+        public DateTime? updated_at { get; set; }
+        //public string CreatedBy { get; set; }
+        //public string UpdatedBy { get; set; }
+        //public string KodeOtp { get; set; }
     }
 
     public class OpeningAccount

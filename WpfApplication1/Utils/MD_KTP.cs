@@ -19,6 +19,7 @@
         private string kewarganegaraan;
         private string berlaku;
         private string propinsi;
+        private string kota;
         private byte[] foto;
         private byte[] tandatangan;
         private string tglinput;
@@ -125,6 +126,12 @@
         {
             get => this.propinsi;
             set => this.propinsi = value;
+        }
+
+        public string KOTA
+        {
+            get => this.kota;
+            set => this.kota = value;
         }
 
         public byte[] FOTO
